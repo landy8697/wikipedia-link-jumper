@@ -4,26 +4,33 @@ import json # for parsing data
 from pandas import DataFrame as df # premier library for data organization
 
 #URL = "https://en.wikipedia.org/wiki/Special:Random"
-URL = "https://en.wikipedia.org/wiki/Presidency_of_Donald_Trump"
+URL = "https://en.wikipedia.org/wiki/Scotia,_Nebraska"
 page = requests.get(URL)
 page.encoding = 'ISO-885901'
 soup = BeautifulSoup(page.text, 'html.parser')
+#file = open('html.txt', 'w', encoding="utf-8")
 
-#print(soup.prettify())
-#print(soup.findAll('a'))
+ref = soup.find(class_="mw-headline",id="References")
+#print(ref)
+for element in ref.find_all_next():
+    element.decompose()
+#file.write(soup.prettify())
+#file.close()
+
 links = set()
 for link in soup.findAll('a'):
     if (link.get('href') is not None and '/wiki/' in link.get('href') and 'Special' not in link.get('href') and 'File' not in link.get('href') and link.get('class') != 'interlanguage-link interwiki-th mw-list-item' 
     and link.get('class') != 'interlanguage-link-target' and link.get('class')!='extiw'):
         links.add(link.get('href'))
-        print(link.get('href'), link.get('class'))
         
-#print(link)
-for link in soup.findAll('link'):
-    if (link.get('href') is not None and '/wiki/' in link.get('href') and 'Special' not in link.get('href') and 'File' not in link.get('href') and link.get('class') != 'interlanguage-link interwiki-th mw-list-item' 
-    and link.get('class') !='interlanguage-link-target' and link.get('class')!='extiw'):
-        links.add(link.get('href'))
-        print(link.get('href'), link.get('class'))
+        print(link.get('href'), link.getText())
+        '''
+        if(link.get('class') is not None):
+            pass
+            print(link.get('href'), link.get('class'))
+        '''
+        
+
 
 
 

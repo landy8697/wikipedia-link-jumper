@@ -1,0 +1,1188 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Scotia, Nebraska - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ad5b6ac1-e6ee-4379-a455-fd466f8ab407","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Scotia,_Nebraska","wgTitle":"Scotia, Nebraska","wgCurRevisionId":973220276,"wgRevisionId":973220276,"wgArticleId":123939,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Coordinates on Wikidata","Articles with VIAF identifiers","Articles with LCCN identifiers","Articles with WorldCat-VIAF identifiers","Villages in Greeley County, Nebraska","Villages in Nebraska"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Scotia,_Nebraska","wgRelevantArticleId":123939,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgULSCurrentAutonym":"English","wgCoordinates":{"lat":41.466944444444444,"lon":-98.70222222222222},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q3460978","wgGENewcomerTasksGuidanceEnabled":true,
+"wgGEAskQuestionEnabled":false,"wgGELinkRecommendationsFrontendEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+  </script>
+  <link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.9" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Scotia_chalk_building_from_NW_2.JPG/1200px-Scotia_chalk_building_from_NW_2.JPG" property="og:image"/>
+  <meta content="1200" property="og:image:width"/>
+  <meta content="797" property="og:image:height"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Scotia_chalk_building_from_NW_2.JPG/800px-Scotia_chalk_building_from_NW_2.JPG" property="og:image"/>
+  <meta content="800" property="og:image:width"/>
+  <meta content="532" property="og:image:height"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Scotia_chalk_building_from_NW_2.JPG/640px-Scotia_chalk_building_from_NW_2.JPG" property="og:image"/>
+  <meta content="640" property="og:image:width"/>
+  <meta content="425" property="og:image:height"/>
+  <meta content="Scotia, Nebraska - Wikipedia" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//en.m.wikipedia.org/wiki/Scotia,_Nebraska" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/w/index.php?title=Scotia,_Nebraska&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Scotia,_Nebraska" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Scotia_Nebraska rootpage-Scotia_Nebraska skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Scotia, Nebraska
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Village in Nebraska, United States
+      </div>
+      <style data-mw-deduplicate="TemplateStyles:r1048617464">
+       .mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}
+      </style>
+      <style data-mw-deduplicate="TemplateStyles:r1043192559">
+       .mw-parser-output .ib-settlement{width:23em;border-collapse:collapse;line-height:1.2em}.mw-parser-output .ib-settlement td,.mw-parser-output .ib-settlement th{border-top:1px solid #a2a9b1;padding:0.4em 0.6em 0.4em 0.6em}.mw-parser-output .ib-settlement .mergedtoprow .infobox-full-data,.mw-parser-output .ib-settlement .mergedtoprow .infobox-header,.mw-parser-output .ib-settlement .mergedtoprow .infobox-data,.mw-parser-output .ib-settlement .mergedtoprow .infobox-label,.mw-parser-output .ib-settlement .mergedtoprow .infobox-below{border-top:1px solid #a2a9b1;padding:0.4em 0.6em 0.2em 0.6em}.mw-parser-output .ib-settlement .mergedrow .infobox-full-data,.mw-parser-output .ib-settlement .mergedrow .infobox-data,.mw-parser-output .ib-settlement .mergedrow .infobox-label{border:0;padding:0 0.6em 0.2em 0.6em}.mw-parser-output .ib-settlement .mergedbottomrow .infobox-full-data,.mw-parser-output .ib-settlement .mergedbottomrow .infobox-data,.mw-parser-output .ib-settlement .mergedbottomrow .infobox-label{border-top:0;border-bottom:1px solid #a2a9b1;padding:0 0.6em 0.4em 0.6em}.mw-parser-output .ib-settlement .maptable{border:0;padding:0}.mw-parser-output .ib-settlement .infobox-header,.mw-parser-output .ib-settlement .infobox-below{text-align:left}.mw-parser-output .ib-settlement .infobox-above{font-size:125%;line-height:1.3em}.mw-parser-output .ib-settlement .infobox-subheader{background-color:#cddeff;font-weight:bold}.mw-parser-output .ib-settlement-native{font-weight:normal;padding-top:0.2em}.mw-parser-output .ib-settlement-other-name{font-size:78%}.mw-parser-output .ib-settlement-official{font-weight:bold}.mw-parser-output .ib-settlement-caption{padding:0.3em 0 0 0}.mw-parser-output .ib-settlement-caption-link{padding:0.2em 0}.mw-parser-output .ib-settlement-nickname{display:inline}.mw-parser-output .ib-settlement-fn{font-weight:normal;display:inline}
+      </style>
+      <table class="infobox ib-settlement vcard">
+       <tbody>
+        <tr>
+         <th class="infobox-above" colspan="2">
+          <div class="fn org">
+           Scotia, Nebraska
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="infobox-subheader" colspan="2">
+          <div class="category">
+           <a href="/wiki/Village_(United_States)" title="Village (United States)">
+            Village
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <td class="infobox-full-data" colspan="2">
+          <a class="image" href="/wiki/File:Scotia_chalk_building_from_NW_2.JPG" title="The Chalk Building in downtown Scotia was constructed from locally quarried chalk rock. It is listed in the National Register of Historic Places.">
+           <img alt="The Chalk Building in downtown Scotia was constructed from locally quarried chalk rock. It is listed in the National Register of Historic Places." data-file-height="1299" data-file-width="1955" decoding="async" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Scotia_chalk_building_from_NW_2.JPG/250px-Scotia_chalk_building_from_NW_2.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Scotia_chalk_building_from_NW_2.JPG/375px-Scotia_chalk_building_from_NW_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Scotia_chalk_building_from_NW_2.JPG/500px-Scotia_chalk_building_from_NW_2.JPG 2x" width="250"/>
+          </a>
+          <div class="ib-settlement-caption">
+           The Chalk Building in downtown Scotia was constructed from locally quarried chalk rock.  It is listed in the
+           <a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">
+            National Register of Historic Places
+           </a>
+           .
+          </div>
+         </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <td class="infobox-full-data" colspan="2">
+          <a class="image" href="/wiki/File:Greeley_County_Nebraska_Incorporated_and_Unincorporated_areas_Scotia_Highlighted.svg" title="Location of Scotia, Nebraska">
+           <img alt="Location of Scotia, Nebraska" data-file-height="350" data-file-width="850" decoding="async" height="103" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Greeley_County_Nebraska_Incorporated_and_Unincorporated_areas_Scotia_Highlighted.svg/250px-Greeley_County_Nebraska_Incorporated_and_Unincorporated_areas_Scotia_Highlighted.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Greeley_County_Nebraska_Incorporated_and_Unincorporated_areas_Scotia_Highlighted.svg/375px-Greeley_County_Nebraska_Incorporated_and_Unincorporated_areas_Scotia_Highlighted.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Greeley_County_Nebraska_Incorporated_and_Unincorporated_areas_Scotia_Highlighted.svg/500px-Greeley_County_Nebraska_Incorporated_and_Unincorporated_areas_Scotia_Highlighted.svg.png 2x" width="250"/>
+          </a>
+          <div class="ib-settlement-caption">
+           Location of Scotia, Nebraska
+          </div>
+         </td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td class="infobox-full-data" colspan="2">
+          Coordinates:
+          <style data-mw-deduplicate="TemplateStyles:r994658806">
+           .mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}
+          </style>
+          <span class="plainlinks nourlexpansion">
+           <a class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Scotia,_Nebraska&amp;params=41_28_1_N_98_42_8_W_region:US_type:city">
+            <span class="geo-default">
+             <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+              <span class="latitude">
+               41°28′1″N
+              </span>
+              <span class="longitude">
+               98°42′8″W
+              </span>
+             </span>
+            </span>
+            <span class="geo-multi-punct">
+             ﻿ / ﻿
+            </span>
+            <span class="geo-nondefault">
+             <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+              41.46694°N 98.70222°W
+             </span>
+             <span style="display:none">
+              ﻿ /
+              <span class="geo">
+               41.46694; -98.70222
+              </span>
+             </span>
+            </span>
+           </a>
+          </span>
+          <span style="font-size: small;">
+           <span id="coordinates">
+            <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+             Coordinates
+            </a>
+            :
+            <link href="mw-data:TemplateStyles:r994658806" rel="mw-deduplicated-inline-style"/>
+            <span class="plainlinks nourlexpansion">
+             <a class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Scotia,_Nebraska&amp;params=41_28_1_N_98_42_8_W_region:US_type:city">
+              <span class="geo-default">
+               <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+                <span class="latitude">
+                 41°28′1″N
+                </span>
+                <span class="longitude">
+                 98°42′8″W
+                </span>
+               </span>
+              </span>
+              <span class="geo-multi-punct">
+               ﻿ / ﻿
+              </span>
+              <span class="geo-nondefault">
+               <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+                41.46694°N 98.70222°W
+               </span>
+               <span style="display:none">
+                ﻿ /
+                <span class="geo">
+                 41.46694; -98.70222
+                </span>
+               </span>
+              </span>
+             </a>
+            </span>
+           </span>
+          </span>
+         </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th class="infobox-label" scope="row">
+          <a href="/wiki/List_of_sovereign_states" title="List of sovereign states">
+           Country
+          </a>
+         </th>
+         <td class="infobox-data">
+          United States
+         </td>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          <a href="/wiki/U.S._state" title="U.S. state">
+           State
+          </a>
+         </th>
+         <td class="infobox-data">
+          <a href="/wiki/Nebraska" title="Nebraska">
+           Nebraska
+          </a>
+         </td>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          <a href="/wiki/List_of_counties_in_Nebraska" title="List of counties in Nebraska">
+           County
+          </a>
+         </th>
+         <td class="infobox-data">
+          <a href="/wiki/Greeley_County,_Nebraska" title="Greeley County, Nebraska">
+           Greeley
+          </a>
+         </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th class="infobox-header" colspan="2">
+          Area
+          <div class="ib-settlement-fn">
+           <sup class="reference" id="cite_ref-CenPopGazetteer2019_1-0">
+            <a href="#cite_note-CenPopGazetteer2019-1">
+             [1]
+            </a>
+           </sup>
+          </div>
+         </th>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          • Total
+         </th>
+         <td class="infobox-data">
+          0.35 sq mi (0.90 km
+          <sup>
+           2
+          </sup>
+          )
+         </td>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          • Land
+         </th>
+         <td class="infobox-data">
+          0.35 sq mi (0.90 km
+          <sup>
+           2
+          </sup>
+          )
+         </td>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          • Water
+         </th>
+         <td class="infobox-data">
+          0.00 sq mi (0.00 km
+          <sup>
+           2
+          </sup>
+          )
+         </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th class="infobox-label" scope="row">
+          Elevation
+          <div class="ib-settlement-fn">
+          </div>
+         </th>
+         <td class="infobox-data">
+          1,929 ft (588 m)
+         </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th class="infobox-header" colspan="2">
+          Population
+          <div class="ib-settlement-fn">
+           <span class="nowrap">
+           </span>
+           (
+           <a class="mw-redirect" href="/wiki/2010_United_States_Census" title="2010 United States Census">
+            2010
+           </a>
+           )
+           <sup class="reference" id="cite_ref-wwwcensusgov_2-0">
+            <a href="#cite_note-wwwcensusgov-2">
+             [2]
+            </a>
+           </sup>
+          </div>
+         </th>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          • Total
+         </th>
+         <td class="infobox-data">
+          318
+         </td>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          • Estimate
+          <div class="ib-settlement-fn">
+           (2019)
+           <sup class="reference" id="cite_ref-USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse_3-0">
+            <a href="#cite_note-USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse-3">
+             [3]
+            </a>
+           </sup>
+          </div>
+         </th>
+         <td class="infobox-data">
+          289
+         </td>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          • Density
+         </th>
+         <td class="infobox-data">
+          832.85/sq mi (321.79/km
+          <sup>
+           2
+          </sup>
+          )
+         </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th class="infobox-label" scope="row">
+          <a href="/wiki/Time_zone" title="Time zone">
+           Time zone
+          </a>
+         </th>
+         <td class="infobox-data">
+          <a class="mw-redirect" href="/wiki/UTC-6" title="UTC-6">
+           UTC-6
+          </a>
+          (
+          <a class="mw-redirect" href="/wiki/North_American_Central_Time_Zone" title="North American Central Time Zone">
+           Central (CST)
+          </a>
+          )
+         </td>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          <span class="nowrap">
+           • Summer (
+           <a href="/wiki/Daylight_saving_time" title="Daylight saving time">
+            DST
+           </a>
+           )
+          </span>
+         </th>
+         <td class="infobox-data">
+          <a class="mw-redirect" href="/wiki/UTC-5" title="UTC-5">
+           UTC-5
+          </a>
+          (CDT)
+         </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th class="infobox-label" scope="row">
+          <a class="mw-redirect" href="/wiki/ZIP_code" title="ZIP code">
+           ZIP code
+          </a>
+         </th>
+         <td class="infobox-data adr">
+          <div class="postal-code">
+           68875
+          </div>
+         </td>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          <a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">
+           Area code(s)
+          </a>
+         </th>
+         <td class="infobox-data">
+          <a href="/wiki/Area_code_308" title="Area code 308">
+           308
+          </a>
+         </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th class="infobox-label" scope="row">
+          <a class="mw-redirect" href="/wiki/Federal_Information_Processing_Standard" title="Federal Information Processing Standard">
+           FIPS code
+          </a>
+         </th>
+         <td class="infobox-data">
+          31-44070
+          <sup class="reference" id="cite_ref-GR2_4-0">
+           <a href="#cite_note-GR2-4">
+            [4]
+           </a>
+          </sup>
+         </td>
+        </tr>
+        <tr class="mergedrow">
+         <th class="infobox-label" scope="row">
+          <a href="/wiki/Geographic_Names_Information_System" title="Geographic Names Information System">
+           GNIS
+          </a>
+          feature ID
+         </th>
+         <td class="infobox-data">
+          0833310
+          <sup class="reference" id="cite_ref-GR3_5-0">
+           <a href="#cite_note-GR3-5">
+            [5]
+           </a>
+          </sup>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       <b>
+        Scotia
+       </b>
+       is a village in
+       <a href="/wiki/Greeley_County,_Nebraska" title="Greeley County, Nebraska">
+        Greeley County
+       </a>
+       ,
+       <a href="/wiki/Nebraska" title="Nebraska">
+        Nebraska
+       </a>
+       , United States. The population was 318 at the
+       <a class="mw-redirect" href="/wiki/2010_United_States_Census" title="2010 United States Census">
+        2010 census
+       </a>
+       .
+      </p>
+      <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation">
+       <input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/>
+       <div class="toctitle" dir="ltr" lang="en">
+        <h2 id="mw-toc-heading">
+         Contents
+        </h2>
+        <span class="toctogglespan">
+         <label class="toctogglelabel" for="toctogglecheckbox">
+         </label>
+        </span>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Geography">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Geography
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Demographics">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Demographics
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#2010_census">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             2010 census
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#2000_census">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             2000 census
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Notable_people">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Notable people
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scotia,_Nebraska&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Scotia was founded in the 1870s. A Scottish settler suggested the name
+       <a href="/wiki/Scotia" title="Scotia">
+        Scotia
+       </a>
+       , a literary name for
+       <a href="/wiki/Scotland" title="Scotland">
+        Scotland
+       </a>
+       .
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Scotia was designated the first county seat.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Geography">
+        Geography
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scotia,_Nebraska&amp;action=edit&amp;section=2" title="Edit section: Geography">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Scotia is located at
+       <link href="mw-data:TemplateStyles:r994658806" rel="mw-deduplicated-inline-style"/>
+       <span class="plainlinks nourlexpansion">
+        <a class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Scotia,_Nebraska&amp;params=41_28_1_N_98_42_8_W_type:city">
+         <span class="geo-default">
+          <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+           <span class="latitude">
+            41°28′1″N
+           </span>
+           <span class="longitude">
+            98°42′8″W
+           </span>
+          </span>
+         </span>
+         <span class="geo-multi-punct">
+          ﻿ / ﻿
+         </span>
+         <span class="geo-nondefault">
+          <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+           41.46694°N 98.70222°W
+          </span>
+          <span style="display:none">
+           ﻿ /
+           <span class="geo">
+            41.46694; -98.70222
+           </span>
+          </span>
+         </span>
+        </a>
+       </span>
+       (41.466928, -98.702196).
+       <sup class="reference" id="cite_ref-GR1_8-0">
+        <a href="#cite_note-GR1-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <p>
+       According to the
+       <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">
+        United States Census Bureau
+       </a>
+       , the village has a total area of 0.35 square miles (0.91 km
+       <sup>
+        2
+       </sup>
+       ), all of it land.
+       <sup class="reference" id="cite_ref-Gazetteer_files_9-0">
+        <a href="#cite_note-Gazetteer_files-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Scotia is located on
+       <a href="/wiki/Nebraska_Highway_22" title="Nebraska Highway 22">
+        Nebraska Highway 22
+       </a>
+       (Scotia Avenue).
+      </p>
+      <h2>
+       <span class="mw-headline" id="Demographics">
+        Demographics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scotia,_Nebraska&amp;action=edit&amp;section=3" title="Edit section: Demographics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="toccolours" style="border-spacing: 1px; float: right; clear: right; margin: 0 0 1em 1em; text-align:right">
+       <tbody>
+        <tr>
+         <th colspan="4" style="background-color:lavender;padding-right:3px; padding-left:3px; font-size:110%; text-align:center">
+          Historical population
+         </th>
+        </tr>
+        <tr>
+         <th style="text-align:center; border-bottom:1px solid black">
+          Census
+         </th>
+         <th style="text-align:center; border-bottom:1px solid black">
+          <abbr title="Population">
+           Pop.
+          </abbr>
+         </th>
+         <th style="text-align:center; border-bottom:1px solid black">
+         </th>
+         <th style="text-align:center; border-bottom:1px solid black">
+          <abbr title="Percent change">
+           %±
+          </abbr>
+         </th>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1890_United_States_census" title="1890 United States census">
+            1890
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          418
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          —
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1900_United_States_census" title="1900 United States census">
+            1900
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          267
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          −36.1%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1910_United_States_census" title="1910 United States census">
+            1910
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          328
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          22.8%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1920_United_States_census" title="1920 United States census">
+            1920
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          559
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          70.4%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1930_United_States_census" title="1930 United States census">
+            1930
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          474
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          −15.2%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1940_United_States_census" title="1940 United States census">
+            1940
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          453
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          −4.4%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1950_United_States_census" title="1950 United States census">
+            1950
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          474
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          4.6%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1960_United_States_census" title="1960 United States census">
+            1960
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          350
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          −26.2%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1970_United_States_census" title="1970 United States census">
+            1970
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          354
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          1.1%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1980_United_States_census" title="1980 United States census">
+            1980
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          349
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          −1.4%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/1990_United_States_census" title="1990 United States census">
+            1990
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          318
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          −8.9%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/2000_United_States_census" title="2000 United States census">
+            2000
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          308
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          −3.1%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           <a href="/wiki/2010_United_States_census" title="2010 United States census">
+            2010
+           </a>
+          </b>
+         </td>
+         <td style="padding-left:8px; border-right:none; padding-right:0; text-align:right;">
+          318
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          3.2%
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:center">
+          <b>
+           2019 (est.)
+          </b>
+         </td>
+         <td style="padding-left:0px; border-right:none; padding-right:0; text-align:right;">
+          289
+         </td>
+         <td style="border-left:none; padding-left:0; text-align:left;">
+          <sup class="reference" id="cite_ref-USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse_3-1">
+           <a href="#cite_note-USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse-3">
+            [3]
+           </a>
+          </sup>
+         </td>
+         <td style="padding-left:8px; text-align: right;">
+          −9.1%
+         </td>
+        </tr>
+        <tr>
+         <td colspan="4" style="border-top:1px solid black; font-size:85%; text-align:center">
+          U.S. Decennial Census
+          <sup class="reference" id="cite_ref-DecennialCensus_10-0">
+           <a href="#cite_note-DecennialCensus-10">
+            [10]
+           </a>
+          </sup>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <h3>
+       <span class="mw-headline" id="2010_census">
+        2010 census
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scotia,_Nebraska&amp;action=edit&amp;section=4" title="Edit section: 2010 census">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       As of the
+       <a href="/wiki/Census" title="Census">
+        census
+       </a>
+       <sup class="reference" id="cite_ref-wwwcensusgov_2-1">
+        <a href="#cite_note-wwwcensusgov-2">
+         [2]
+        </a>
+       </sup>
+       of 2010, there were 318 people, 139 households, and 92 families residing in the village. The
+       <a href="/wiki/Population_density" title="Population density">
+        population density
+       </a>
+       was 908.6 inhabitants per square mile (350.8/km
+       <sup>
+        2
+       </sup>
+       ). There were 166 housing units at an average density of 474.3 per square mile (183.1/km
+       <sup>
+        2
+       </sup>
+       ). The racial makeup of the village was 98.1%
+       <a class="mw-redirect" href="/wiki/White_(U.S._Census)" title="White (U.S. Census)">
+        White
+       </a>
+       , 0.3%
+       <a class="mw-redirect" href="/wiki/African_American_(U.S._Census)" title="African American (U.S. Census)">
+        African American
+       </a>
+       , 0.9%
+       <a class="mw-redirect" href="/wiki/Native_American_(U.S._Census)" title="Native American (U.S. Census)">
+        Native American
+       </a>
+       , 0.3% from
+       <a class="mw-redirect" href="/wiki/Race_(U.S._Census)" title="Race (U.S. Census)">
+        other races
+       </a>
+       , and 0.3% from two or more races.
+       <a class="mw-redirect" href="/wiki/Hispanic_(U.S._Census)" title="Hispanic (U.S. Census)">
+        Hispanic
+       </a>
+       or
+       <a class="mw-redirect" href="/wiki/Latino_(U.S._Census)" title="Latino (U.S. Census)">
+        Latino
+       </a>
+       of any race were 0.6% of the population.
+      </p>
+      <p>
+       There were 139 households, of which 25.2% had children under the age of 18 living with them, 56.8% were
+       <a href="/wiki/Marriage" title="Marriage">
+        married couples
+       </a>
+       living together, 5.0% had a female householder with no husband present, 4.3% had a male householder with no wife present, and 33.8% were non-families. 29.5% of all households were made up of individuals, and 15.1% had someone living alone who was 65 years of age or older. The average household size was 2.29 and the average family size was 2.79.
+      </p>
+      <p>
+       The median age in the village was 42.8 years. 22% of residents were under the age of 18; 6.9% were between the ages of 18 and 24; 22.2% were from 25 to 44; 25.5% were from 45 to 64; and 23.3% were 65 years of age or older. The gender makeup of the village was 45.9% male and 54.1% female.
+      </p>
+      <h3>
+       <span class="mw-headline" id="2000_census">
+        2000 census
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scotia,_Nebraska&amp;action=edit&amp;section=5" title="Edit section: 2000 census">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       As of the
+       <a href="/wiki/Census" title="Census">
+        census
+       </a>
+       <sup class="reference" id="cite_ref-GR2_4-1">
+        <a href="#cite_note-GR2-4">
+         [4]
+        </a>
+       </sup>
+       of 2000, there were 308 people, 140 households, and 88 families residing in the village. The
+       <a href="/wiki/Population_density" title="Population density">
+        population density
+       </a>
+       was 889.0 people per square mile (339.8/km
+       <sup>
+        2
+       </sup>
+       ). There were 167 housing units at an average density of 482.0 per square mile (184.2/km
+       <sup>
+        2
+       </sup>
+       ). The racial makeup of the village was 94.16%
+       <a class="mw-redirect" href="/wiki/White_(U.S._Census)" title="White (U.S. Census)">
+        White
+       </a>
+       , 3.90%
+       <a class="mw-redirect" href="/wiki/African_American_(U.S._Census)" title="African American (U.S. Census)">
+        African American
+       </a>
+       , 0.32% from
+       <a class="mw-redirect" href="/wiki/Race_(United_States_Census)" title="Race (United States Census)">
+        other races
+       </a>
+       , and 1.62% from two or more races.
+       <a class="mw-redirect" href="/wiki/Hispanic_(U.S._Census)" title="Hispanic (U.S. Census)">
+        Hispanic
+       </a>
+       or
+       <a class="mw-redirect" href="/wiki/Latino_(U.S._Census)" title="Latino (U.S. Census)">
+        Latino
+       </a>
+       of any race were 0.65% of the population.
+      </p>
+      <p>
+       There were 140 households, out of which 20.7% had children under the age of 18 living with them, 57.9% were
+       <a href="/wiki/Marriage" title="Marriage">
+        married couples
+       </a>
+       living together, 4.3% had a female householder with no husband present, and 37.1% were non-families. 36.4% of all households were made up of individuals, and 25.7% had someone living alone who was 65 years of age or older. The average household size was 2.20 and the average family size was 2.88.
+      </p>
+      <p>
+       In the village, the population was spread out, with 22.1% under the age of 18, 5.2% from 18 to 24, 20.1% from 25 to 44, 21.1% from 45 to 64, and 31.5% who were 65 years of age or older. The median age was 49 years. For every 100 females, there were 87.8 males. For every 100 females age 18 and over, there were 79.1 males.
+      </p>
+      <p>
+       As of 2000 the median income for a household in the village was $23,750, and the median income for a family was $28,750. Males had a median income of $21,563 versus $15,625 for females. The
+       <a href="/wiki/Per_capita_income" title="Per capita income">
+        per capita income
+       </a>
+       for the village was $11,871. About 5.8% of families and 7.3% of the population were below the
+       <a class="mw-redirect" href="/wiki/Poverty_line" title="Poverty line">
+        poverty line
+       </a>
+       , including 6.9% of those under the age of eighteen and 4.0% of those 65 or over.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Notable_people">
+        Notable people
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scotia,_Nebraska&amp;action=edit&amp;section=6" title="Edit section: Notable people">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Frank_Phillips_(oil_industrialist)" title="Frank Phillips (oil industrialist)">
+         Frank Phillips
+        </a>
+        , co-founder of
+        <a href="/wiki/Phillips_Petroleum_Company" title="Phillips Petroleum Company">
+         Phillips Petroleum Company
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+      </h2>
+      <!-- 
+NewPP limit report
+Parsed by mw1379
+Cached time: 20211129014044
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.809 seconds
+Real time usage: 0.966 seconds
+Preprocessor visited node count: 5429/1000000
+Post‐expand include size: 73432/2097152 bytes
+Template argument size: 10524/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 39351/5000000 bytes
+Lua time usage: 0.440/10.000 seconds
+Lua memory usage: 8063996/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  888.793      1 -total
+ 47.61%  423.195      1 Template:Infobox_settlement
+ 32.00%  284.442      1 Template:Infobox
+ 14.55%  129.326      9 Template:Cite_web
+ 10.66%   94.783      1 Template:US_Census_population
+ 10.52%   93.544      6 Template:Main_other
+  9.22%   81.978      1 Template:Greeley_County,_Nebraska
+  8.84%   78.599      1 Template:US_county_navigation_box
+  8.28%   73.615      1 Template:Navbox
+  7.01%   62.274     26 Template:Replace
+-->
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:123939-0!canonical and timestamp 20211129014043 and revision id 973220276. Serialized with JSON.
+ -->
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

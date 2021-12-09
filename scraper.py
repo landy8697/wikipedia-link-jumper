@@ -4,18 +4,15 @@ import json # for parsing data
 from pandas import DataFrame as df # premier library for data organization
 
 #URL = "https://en.wikipedia.org/wiki/Special:Random"
-URL = "https://en.wikipedia.org/wiki/Scotia,_Nebraska"
+#URL = "https://en.wikipedia.org/wiki/Scotia,_Nebraska"
+URL = "https://en.wikipedia.org/wiki/Country_(disambiguation)"
 page = requests.get(URL)
 page.encoding = 'ISO-885901'
 soup = BeautifulSoup(page.text, 'html.parser')
-#file = open('html.txt', 'w', encoding="utf-8")
 
 ref = soup.find(class_="mw-headline",id="References")
-#print(ref)
 for element in ref.find_all_next():
     element.decompose()
-#file.write(soup.prettify())
-#file.close()
 
 links = set()
 for link in soup.findAll('a'):

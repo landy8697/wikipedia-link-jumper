@@ -4,6 +4,7 @@ import json
 import requests # for making standard html requests
 from bs4 import BeautifulSoup # magical tool for parsing html data
 import sys
+import webbrowser
 
 
 root = Tk()  
@@ -35,10 +36,12 @@ def get_links(URL):
 	soup = BeautifulSoup(page.text, 'html.parser')
 
 	ref = soup.find(class_="mw-headline",id="References")
-	for element in ref.find_all_next():
-		element.decompose()
+	if ref is not None:
+		for element in ref.find_all_next():
+			element.decompose()
 
 	links = set()
+	#Code to filter out external links to wikimedia etc, file links, non english links, 
 	for link in soup.findAll('a'):
 		if (link.get('href') is not None and '/wiki/' in link.get('href') and 'Wikipedia' not in link.get('href') and 'Special' not in link.get('href') and 'File' not in link.get('href') and link.get('class') != 'interlanguage-link interwiki-th mw-list-item' 
 		and link.get('class') != 'interlanguage-link-target' and link.get('class')!='extiw'):
@@ -71,6 +74,8 @@ def insert(data):
 			my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[1]), tags=('oddrow',))
 		count+=1
 
+#click_btn= PhotoImage(file='clickme.png')
+
 button_frame = Frame(root)
 button_frame.pack(pady=10)
 random_button = Button(button_frame, text="Random article", command=random_article)
@@ -101,17 +106,5 @@ my_tree.heading("Link", text="Link", anchor=W)
 my_tree.tag_configure('oddrow', background="white")
 my_tree.tag_configure('evenrow', background="lightblue")
 
-
-
-
-'''
-for record in data:
-	if count % 2 == 0:
-		my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[1], record[2]), tags=('evenrow',))
-	else:
-		my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[1], record[2]), tags=('oddrow',))
-
-	count += 1
-'''
 
 root.mainloop()

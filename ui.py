@@ -88,8 +88,8 @@ def select_article():
 		print("Invalid")
 		return
 	values = my_tree.item(selected, 'values')
-	
-	get_new_links('https://en.wikipedia.org'+values[1], False)
+	print(values[2])
+	get_new_links('https://en.wikipedia.org'+values[2], False)
 
 def insert(data):
 	for record in my_tree.get_children():
@@ -100,9 +100,9 @@ def insert(data):
 	count = 2
 	for record in data:
 		if count % 2 == 0:
-			my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[2]), tags=('evenrow',))
+			my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[2], record[1]), tags=('evenrow',))
 		else:
-			my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[2]), tags=('oddrow',))
+			my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[2], record[1]), tags=('oddrow',))
 		count+=1
 
 def back():
@@ -132,7 +132,7 @@ def open_article():
 
 
 button_frame = Frame(root)
-button_frame.pack(pady=20)
+button_frame.pack(pady=10)
 photo = PhotoImage(file = r"left_arrow.png").subsample(10, 10)
 back_button = Button(button_frame, image=photo, command=back)
 back_button.grid(row=0, column=0)
@@ -147,7 +147,7 @@ forward_button = Button(button_frame, image=photo2, command=forward)
 forward_button.grid(row=0, column=4)
 
 tree_frame = Frame(root)
-tree_frame.pack(pady=0)
+tree_frame.pack(pady=10)
 tree_scroll = Scrollbar(tree_frame)
 tree_scroll.pack(side=RIGHT, fill=Y)
 my_tree = ttk.Treeview(tree_frame, yscrollcommand=tree_scroll.set, selectmode="extended",height=17)

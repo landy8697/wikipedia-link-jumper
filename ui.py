@@ -71,9 +71,9 @@ def get_links(URL):
 	links = set()
 	#Code to filter out external links to wikimedia etc, file links, non english links, 
 	for link in soup.findAll('a'):
-		if (link.get('href') is not None and '/wiki/' == link.get('href')[0:6] and 'Wikipedia' not in link.get('href') and 'Special' not in link.get('href') and 'File' not in link.get('href') and link.get('class') != 'interlanguage-link interwiki-th mw-list-item' 
+		if (link.get('href') is not None and '/wiki/' == link.get('href')[0:6] and 'Wikipedia' not in link.get('href') and 'Special' not in link.get('href') and 'File' not in link.get('href') and 'Help' not in link.get('href') and link.get('class') != 'interlanguage-link interwiki-th mw-list-item' 
 		and link.get('class') != 'interlanguage-link-target' and link.get('class')!='extiw'):
-			links.add((link.getText(), link.get('href')))
+			links.add((link.getText(), link.get('href'), link.get('title')))
 	print("Links recovered")
 	cur.redirects = links
 	insert(links)
@@ -100,9 +100,9 @@ def insert(data):
 	count = 2
 	for record in data:
 		if count % 2 == 0:
-			my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[1]), tags=('evenrow',))
+			my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[2]), tags=('evenrow',))
 		else:
-			my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[1]), tags=('oddrow',))
+			my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[2]), tags=('oddrow',))
 		count+=1
 
 def back():

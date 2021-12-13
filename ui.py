@@ -71,7 +71,7 @@ def get_links(URL):
 	links = set()
 	#Code to filter out external links to wikimedia etc, file links, non english links, 
 	for link in soup.findAll('a'):
-		if (link.get('href') is not None and '/wiki/' == link.get('href')[0:6] and 'Wikipedia' not in link.get('href') and 'Special' not in link.get('href') and 'File' not in link.get('href') and link.get('class') != 'interlanguage-link interwiki-th mw-list-item' 
+		if (link.get('href') is not None and '/wiki/' == link.get('href')[0:6] and 'Wikipedia' not in link.get('href') and 'Special' not in link.get('href') and 'File' not in link.get('href') and 'Help' not in link.get('href') and link.get('class') != 'interlanguage-link interwiki-th mw-list-item' 
 		and link.get('class') != 'interlanguage-link-target' and link.get('class')!='extiw'):
 			links.add((link.getText(), link.get('href')))
 	print("Links recovered")
@@ -132,7 +132,7 @@ def open_article():
 
 
 button_frame = Frame(root)
-button_frame.pack(pady=10)
+button_frame.pack(pady=20)
 photo = PhotoImage(file = r"left_arrow.png").subsample(10, 10)
 back_button = Button(button_frame, image=photo, command=back)
 back_button.grid(row=0, column=0)
@@ -147,7 +147,7 @@ forward_button = Button(button_frame, image=photo2, command=forward)
 forward_button.grid(row=0, column=4)
 
 tree_frame = Frame(root)
-tree_frame.pack(pady=10)
+tree_frame.pack(pady=0)
 tree_scroll = Scrollbar(tree_frame)
 tree_scroll.pack(side=RIGHT, fill=Y)
 my_tree = ttk.Treeview(tree_frame, yscrollcommand=tree_scroll.set, selectmode="extended",height=17)
